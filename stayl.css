@@ -15,7 +15,7 @@ div {
     border-radius: 50%;
 }
 .krug{
-    background-color: darkmagenta;
+    background-color: aquamarine;
     height: 100px;
     width: 100px;
     border-radius: 50px;
@@ -23,6 +23,6 @@ div {
 .trik{
     height: 50px;
     width: 50px;
-    border: 25px solid transparent;
+    border: 50px solid transparent;
     border-top-color: brown;
 }
